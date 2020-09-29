@@ -1,3 +1,10 @@
 /venv
 /doc
 .idea/
+
+/data
+/.vscode
+
+/midi_handler_test
+
+/vgmidi
